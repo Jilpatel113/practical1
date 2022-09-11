@@ -29,7 +29,7 @@ fun main() {
     val c: Char = 'T'
     println("Character value = $c")
 
-    val d: String = "Malay"
+    val d: String = "JIL"
     println("String value = $d")
 
     val e: Boolean = true
